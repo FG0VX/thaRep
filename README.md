@@ -1,2 +1,2 @@
-# thaRep
-I don't have any fucking idea.
+# Pong Game #1Rep
+I don't have any idea.
